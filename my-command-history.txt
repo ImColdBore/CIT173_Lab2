@@ -1,0 +1,117 @@
+--
+pwd
+time pwd
+time uname -a
+sudo /bin/bash
+git clone https://github.com/RenoTechnologyAcademy/CIT173_Lab2_Files.git
+cat  ~/CIT173_Lab2_Files/phonebook1.txt ~/CIT173_Lab2_Files/phonebook2.txt > ~/CIT173_Lab2/my-phonebook.txt
+cat /CIT173_Lab2_Files/phonebook1.txt /CIT173_Lab2_Files/phonebook2.txt > /CIT173_Lab2/my-phonebook.txt
+cat ~/CIT173_Lab2_Files/phonebook1.txt ~/CIT173_Lab2_Files/phonebook2.txt > ~/CIT173_Lab2/my-phonebook.txt
+cat ~/CIT173_Lab2_Files/phonebook1.txt ~/CIT173_Lab2_Files/phonebook2.txt > ~/CIT173_Lab2/myphonebook.txt
+cat ~/CIT173_Lab2_Files/phonebook1.txt ~/CIT173_Lab2_Files/phonebook2.txt > ~/CIT173_Lab2/my-phonebook.txt
+~cd Desktop/CIT173_Lab2
+cd Desktop/CIT173_Lab2
+cd ~/ Desktop/CIT173_Lab2
+cd ~/Desktop/CIT173_Lab2
+mkdir my-phonebook.txt
+..
+-
+exit
+-ls
+man join
+cat file1.txt file2.txt
+SHELL
+0
+type
+mkdir CIT173_Lab2
+env_var
+env_var+value
+env_var=value
+0
+o
+shell
+SHELL
+env SHELL
+envvar SHELL
+env_var SHELL
+var
+ver
+env
+type
+/bin/bash
+cat ~/CIT173_Lab2_Files/phonebook1.txt ~/CIT173_Lab2_Files/phonebook2.txt > ~/CIT173_Lab2/my-phonebook.txt
+cd ~/Desktop/CIT173_Lab2
+cat ~/CIT173_Lab2_Files/phonebook1.txt ~/CIT173_Lab2_Files/phonebook2.txt > ~/CIT173_Lab2/my-phonebook.txt
+exi
+exit
+bash
+a
+env
+$0
+SHELL=/bin/bash
+$)
+$0
+set
+echo $0
+$SHELL
+echo $SHELL
+echo $0
+type
+type man
+man type
+type SHELL
+type shell
+type $SHELL
+type $0
+$BASH
+$SHELL
+echo $BASH
+echo $shell
+ps
+cat ~/CIT173_Lab2_Files/phonebook1.txt ~/CIT173_Lab2_Files/phonebook2.txt > ~/CIT173_Lab2/my-phonebook.txt.
+cat ~/CIT173_Lab2_Files/phonebook1.txt ~/CIT173_Lab2_Files/phonebook2.txt > ~/CIT173_Lab2/my-phonebook.txt
+cat phonebook1.txt phonebook2.txt > my-phonebook.txt
+cat ~/CIT173_Lab2_Files/phonebook1.txt ~/CIT173_Lab2_Files/phonebook2.txt > my-phonebook.txt
+cd /Desktop/CIT173_Lab2_Files
+cat ~/CIT173_Lab2_Files/phonebook1.txt ~/CIT173_Lab2_Files/phonebook2.txt > ~/CIT173_Lab2/my-phonebook.txt
+cat ~/CIT173_Lab2_Files/phonebook1.txt ~/CIT173_Lab2_Files/phonebook2.txt > my-phonebook.txt
+cd /home/zeb/Desktop/CIT173_Lab2_Files
+cat ~/CIT173_Lab2_Files/phonebook1.txt ~/CIT173_Lab2_Files/phonebook2.txt > my-phonebook.txt
+cat ~/CIT173_Lab2_Files/phonebook1.txt ~/CIT173_Lab2_Files/phonebook2.txt > ~/CIT173_Lab2/my-phonebook.txt
+cat home/zeb/Desktop/CIT173_Lab2_Files/phonebook1.txt home/zeb/Desktop/CIT173_Lab2_Files/phonebook2.txt > home/zeb/Desktop/CIT173_Lab2/my-phonebook.txt
+cat home/zeb/Desktop/CIT173_Lab2_Files/phonebook1.txt home/zeb/Desktop/CIT173_Lab2_Files/phonebook2.txt > ~/my-phonebook.txt
+su
+sudo
+su
+exi
+exit
+su
+cat home/zeb/Desktop/CIT173_Lab2_Files/phonebook1.txt home/zeb/Desktop/CIT173_Lab2_Files/phonebook2.txt > ~/my-phonebook.txt
+cd ~/CIT173_Lab2_Files
+cd ~/Desktop/CIT173_Lab2_Files
+cat ~/Desktop/CIT173_Lab2_Files/phonebook1.txt ~/Desktop/CIT173_Lab2_Files/phonebook2.txt > ~/Desktop/my-phonebook.txt
+wc ~/Desktop/my-phonebook.txt
+cat ~/Desktop/my-phonebook.txt
+less
+less ~/Desktop/my-phonebook.txt
+cd ..
+cat ~/Desktop/CIT173_Lab2_Files/phonelisting1.txt ~/Desktop/CIT173_Lab2_Files/phonelisting2.txt > ~/Desktop/CIT173_Lab2/my-phonelisting.txt
+tac ~/Desktop/CIT173_Lab2/my-phonebook.txt > ~/Desktop/CIT173_Lab2/my-phonebook-reverse.txt
+join ~/Desktop/CIT173_Lab2/my-phonebook.txt ~/Desktop/CIT173_Lab2/my-joined-phonebook.txt
+join ~/Desktop/CIT173_Lab2/my-phonebook.txt ~/Desktop/CIT173_Lab2/my-phonelisting.txt > ~/Desktop/CIT173_Lab2/my-joined-phonebook.txt
+unexpand --help
+unexpand ~/Desktop/CIT173_Lab2/my-phonebook.txt > ~/Desktop/CIT173_Lab2/my-tabbed-phonebook.txt
+sort ~/Desktop/CIT173_Lab2/my-sorted-phonebook.txt
+sort ~/Desktop/CIT173_Lab2/my-phonebook.txt > ~/Desktop/CIT173_lab2/my-sorted-phonebook.txt
+sort ~/Desktop/CIT173_Lab2/my-phonebook.txt > ~/Desktop/CIT173_Lab2/my-sorted-phonebook.txt
+n1 ~/Desktop/CIT173_Lab2/my-phonebook.txt > ~/Desktop/CIT173_Lab2/my-numbered-phonebook.txt
+nl ~/Desktop/CIT173_Lab2/my-phonebook.txt > ~/Desktop/CIT173_Lab2/my-numbered-phonebook.txt
+head ~/Desktop/CIT173_Lab2/my-phonebook.txt > ~/Desktop/CIT173_Lab2/my-head-phonebook.txt
+head 5 ~/Desktop/CIT173_Lab2/my-phonebook.txt > ~/Desktop/CIT173_Lab2/my-head-phonebook.txt
+head -n 5 ~/Desktop/CIT173_Lab2/my-phonebook.txt > ~/Desktop/CIT173_Lab2/my-head-phonebook.txt
+tail -n 5 ~/Desktop/CIT173_Lab2/my-phonebook.txt > ~/Desktop/CIT173_Lab2/my-head-phonebook.txt
+head -n 5 ~/Desktop/CIT173_Lab2/my-phonebook.txt > ~/Desktop/CIT173_Lab2/my-head-phonebook.txt
+tail -n 5 ~/Desktop/CIT173_Lab2/my-phonebook.txt > ~/Desktop/CIT173_Lab2/my-tail-phonebook.txt
+history ~/Desktop/CIT173_Lab2/my-command-history.txt
+history --help
+history -w ~/Desktop/CIT173_Lab2/my-command-history.txt
